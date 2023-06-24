@@ -1,18 +1,12 @@
 # ATM-Simulator-System
-
-## ATM-Simulator-System
 An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
 ## Project Status
-(only necessary if incomplete)
 
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
 
 ## Project Screen Shot(s)
 
-#### Example:   
+
 
 [ PRETEND SCREEN SHOT IS HERE ]
 
@@ -49,7 +43,6 @@ To Visit App:
   - What tools did you use to implement this project?
       - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
 
-#### Example:  
 
 This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
 
