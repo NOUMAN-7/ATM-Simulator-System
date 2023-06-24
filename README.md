@@ -1,9 +1,9 @@
 # ATM-Simulator-System
 ## Project Name & Pitch
 
-#### Example:
+# ATM-Simulator-System
 
-TweetWorld 
+
 
 An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
